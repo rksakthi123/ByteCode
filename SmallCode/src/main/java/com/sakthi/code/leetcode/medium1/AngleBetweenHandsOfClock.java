@@ -1,4 +1,4 @@
-package com.sakthi.code.leetcode.easy1;
+package com.sakthi.code.leetcode.medium1;
 
 public class AngleBetweenHandsOfClock {
 
