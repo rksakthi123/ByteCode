@@ -1,9 +1,9 @@
 package com.sakthi.code.leetcode.easy1;
 
-public class TestPowerOfThree {
+public class PowerOfThree {
 
 	public static void main(String[] args) {
-		TestPowerOfThree obj=new TestPowerOfThree();
+		PowerOfThree obj=new PowerOfThree();
 		System.out.println(obj.checkPowerOfThree(27));
 		System.out.println(obj.checkPowerOfThree(9));
 		System.out.println(obj.checkPowerOfThree(8));

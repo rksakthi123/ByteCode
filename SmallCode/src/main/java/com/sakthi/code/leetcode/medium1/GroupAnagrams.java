@@ -6,10 +6,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class TestGroupAnagrams {
+public class GroupAnagrams {
 
 	public static void main(String[] args) {
-		TestGroupAnagrams obj=new TestGroupAnagrams();
+		GroupAnagrams obj=new GroupAnagrams();
 		String[] strs= {"eat","tea","tan","ate","nat","bat"};
 		System.out.println(obj.groupAnagrams(strs));
 		String[] strs1= {"a"};

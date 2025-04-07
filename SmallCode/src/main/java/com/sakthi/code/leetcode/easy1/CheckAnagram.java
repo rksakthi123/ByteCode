@@ -2,10 +2,10 @@ package com.sakthi.code.leetcode.easy1;
 
 import java.util.Arrays;
 
-public class TestCheckAnagram {
+public class CheckAnagram {
 
 	public static void main(String[] args) {
-		TestCheckAnagram obj=new TestCheckAnagram();
+		CheckAnagram obj=new CheckAnagram();
 		String str1="abc";
 		String str2="bca";
 		System.out.println(obj.checkAnagram(str1, str2)); 
