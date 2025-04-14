@@ -55,11 +55,5 @@ public class ValidPalindrom {
 		return true;
 	}
 	
-	public boolean isAlphaNumeric(char c) {
-		if(c>96&&c<122 || c>48&&c<57) {
-			return true;
-		}
-		return false;
-	}
-
+	
 }
